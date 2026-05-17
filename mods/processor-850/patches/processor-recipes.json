@@ -1,0 +1,14 @@
+{
+  "patches": [
+    {
+      "assetPath": "D_ProcessorRecipes.json",
+      "operations": [
+        {
+          "op": "replaceAll",
+          "path": "/RequiredMillijoules",
+          "value": 850
+        }
+      ]
+    }
+  ]
+}

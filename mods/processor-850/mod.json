@@ -1,0 +1,21 @@
+{
+  "id": "icarus.processor.850mj",
+  "name": "Processor 850 mJ",
+  "version": "1.0.0",
+  "description": "Sets every RequiredMillijoules in D_ProcessorRecipes.json to 850.",
+  "author": "csStratwareDemo",
+  "target": {
+    "gameId": "Icarus",
+    "engineVersion": "4.27",
+    "minGameVersion": "1.0.0"
+  },
+  "contentRoots": [],
+  "patchFiles": [],
+  "codeProject": "code/Processor850.csproj",
+  "pak": {
+    "output": "dist/processor-850_P.pak",
+    "mountPoint": "../../../Icarus/Content/data/Crafting/",
+    "sourcePak": "@icarus-data",
+    "useUnrealPak": true
+  }
+}

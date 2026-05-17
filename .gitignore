@@ -1,0 +1,5 @@
+mods/**/dist/
+mods/**/.cache/
+extracted-test/
+*.pak
+csstratware.json

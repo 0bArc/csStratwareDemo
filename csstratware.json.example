@@ -1,0 +1,8 @@
+{
+  "unrealPak": "C:\\path\\to\\UnrealPak.exe",
+  "icarusPaksDir": "C:\\path\\to\\Icarus\\Icarus\\Content\\Paks",
+  "icarusDataPak": "C:\\path\\to\\Icarus\\Icarus\\Content\\Data\\data.pak",
+  "demoExtractedDir": "extracted",
+  "icarusMountPoint": "../../../Icarus/Content/data/Crafting/",
+  "unrealEngineDir": "C:\\path\\to\\Engine"
+}

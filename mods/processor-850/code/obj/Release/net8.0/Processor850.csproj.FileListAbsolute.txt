@@ -1,0 +1,13 @@
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\.cache\compiled\Processor850.deps.json
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\.cache\compiled\Processor850.dll
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\.cache\compiled\Processor850.pdb
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.csproj.AssemblyReference.cache
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.AssemblyInfoInputs.cache
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.AssemblyInfo.cs
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.csproj.CoreCompileInputs.cache
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processo.A78C6451.Up2Date
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.dll
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\refint\Processor850.dll
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\Processor850.pdb
+F:\Data\personal\c#\csStratwareDemo\mods\processor-850\code\obj\Release\net8.0\ref\Processor850.dll
