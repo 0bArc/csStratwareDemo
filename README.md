@@ -1,11 +1,11 @@
 # csStratwareDemo
 
-Icarus mod workspace for [csStratware](../csStratware). Sample mod **`mods/processor-850`** sets every `RequiredMillijoules` in `D_ProcessorRecipes.json` to **850**.
+Icarus mod workspace for [csStratware](https://github.com/0bArc/csStratware). Sample mod **`mods/processor-850`** sets every `RequiredMillijoules` in `D_ProcessorRecipes.json` to **850**.
 
 ## Prerequisites
 
 - .NET 8 SDK
-- [csStratware](../csStratware) built → `csmanager` on `PATH` (see main repo `build.cs`)
+- [csStratware](https://github.com/0bArc/csStratware) built → `csmanager` on `PATH` (see main repo `build.cs`)
 - Icarus (Steam) for `pak find @icarus` and `pak build-mod`
 - Copy `csstratware.json.example` → `csstratware.json` and set your paths
 
